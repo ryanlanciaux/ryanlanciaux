@@ -3,9 +3,9 @@
 Welcome to my presence on the web. 
 
 
+### You are visitor ###
+![count](https://ryan-lanciaux-counter.glitch.me/count.svg)
+
 ## [SIGN MY GUESTBOOK!!!](https://twitter.com/intent/tweet?text=Hi%20%40ryanlanciaux%20%F0%9F%91%8B.%20I%20am%20saying%20hi%20from%20your%20Github%20profile!%20(https%3A%2F%2Fgithub.com%2Fryanlanciaux)%0A%0A)
 
-
 ![image](https://user-images.githubusercontent.com/85041/87268983-f05eb380-c499-11ea-8945-2de4d4a271d1.png)
-
-![count](https://ryan-lanciaux-counter.glitch.me/count.svg)
