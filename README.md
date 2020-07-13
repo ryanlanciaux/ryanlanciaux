@@ -5,7 +5,7 @@ Welcome to my presence on the web.
 
 <table>
   <tr>
-    <td>You are visitor #:</td>
+    <td>You are visitor</td>
     <td><img src="https://ryan-lanciaux-counter.glitch.me/count.svg" alt="" /></td>
   </tr>
 </table>
