@@ -7,6 +7,7 @@
           border: 3px solid #444;
           padding: 20px;
           font-size: 20px;
+          border-radius: 8px;
         }
       </style>
 
